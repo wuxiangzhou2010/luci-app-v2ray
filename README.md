@@ -39,8 +39,8 @@ make package/luci-app-v2ray/compile V=99
 
 软件截图
 ---
-![demo](https://github.com/aiyahacke/luci-app-v2ray/raw/master/screencapture1.png)
-![demo](https://github.com/aiyahacke/luci-app-v2ray/raw/master/screencapture2.png)
+![screencapture1](./screencapture1.png)
+![screencapture2](./screencapture2.png)
 
  [v2ray-core]: https://github.com/v2ray/v2ray-core
  [openwrt-sdk]: https://openwrt.org/docs/guide-developer/obtain.firmware.sdk
